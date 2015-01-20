@@ -1,0 +1,9 @@
+
+Con la KEY de ARASAAC, pedir el pictograma "castillo":
+
+http://arasaac.org/api/index.php?callback=json&language=ES&word=castillo&catalog=colorpictos&nresults=10&thumbnails=150&TXTlocate=4&KEY=***REMOVED***
+
+
+Resultado:
+
+{ "symbols": [{ "imagePNGURL": "http://arasaac.org/repositorio/originales/25411.png","name": "castillo", "wordTYPE": "2","CreationDate": "2011-08-16 12:36:01", "ModificationDate": "2011-08-16 12:36:01","soundMP3URL": "http://arasaac.org/repositorio/locuciones/0/3621.mp3","thumbnailURL": "http://arasaac.org/classes/img/thumbnail.php?i=c2l6ZT01MCZydXRhPS4uLy4uL3JlcG9zaXRvcmlvL29yaWdpbmFsZXMvMjU0MTEucG5n" }, { "imagePNGURL": "http://arasaac.org/repositorio/originales/5950.png","name": "castillo", "wordTYPE": "2","CreationDate": "2008-10-27 12:42:40", "ModificationDate": "2008-10-27 12:42:40","soundMP3URL": "http://arasaac.org/repositorio/locuciones/0/3621.mp3","thumbnailURL": "http://arasaac.org/classes/img/thumbnail.php?i=c2l6ZT01MCZydXRhPS4uLy4uL3JlcG9zaXRvcmlvL29yaWdpbmFsZXMvNTk1MC5wbmc=" }, { "imagePNGURL": "http://arasaac.org/repositorio/originales/5422.png","name": "castillo", "wordTYPE": "2","CreationDate": "2008-09-04 11:34:56", "ModificationDate": "2008-09-26 10:21:30","soundMP3URL": "http://arasaac.org/repositorio/locuciones/0/3621.mp3","thumbnailURL": "http://arasaac.org/classes/img/thumbnail.php?i=c2l6ZT01MCZydXRhPS4uLy4uL3JlcG9zaXRvcmlvL29yaWdpbmFsZXMvNTQyMi5wbmc=" }, { "imagePNGURL": "http://arasaac.org/repositorio/originales/5421.png","name": "castillo", "wordTYPE": "2","CreationDate": "2008-09-04 11:33:53", "ModificationDate": "2008-09-26 10:19:55","soundMP3URL": "http://arasaac.org/repositorio/locuciones/0/3621.mp3","thumbnailURL": "http://arasaac.org/classes/img/thumbnail.php?i=c2l6ZT01MCZydXRhPS4uLy4uL3JlcG9zaXRvcmlvL29yaWdpbmFsZXMvNTQyMS5wbmc=" } ], "itemCount": 10, "page": 0, "totalItemCount": 4, "pageCount": 0 }
