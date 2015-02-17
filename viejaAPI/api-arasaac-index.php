@@ -89,7 +89,7 @@ switch ($dominio) {
 	break;
 
 }
-/*callback=json&language=EN&word=house&catalog=colorpictos&nresults=10&thumbnailsize=150&TXTlocate=1&KEY=***REMOVED****/
+/* callback=json&language=EN&word=house&catalog=colorpictos&nresults=10&thumbnailsize=150&TXTlocate=1&KEY=***REMOVED*** */
 
 if (isset($_GET['language'])) $idioma=$_GET['language'];
 if (isset($_GET['word'])) $palabra_buscar=$_GET['word'];

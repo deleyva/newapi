@@ -103,7 +103,7 @@ KEY=xxxxxxxxxxxxxxxxx //Clave de la API de MATERIALES
 
 
 EJEMPLOS DE BUSQUEDA
-http://localhost/saac/api_materiales/index.php?callback=json&titulo_descripcion_basico=&autor_basico=&idiomas_basico=&area_curricular_basico=0&subarea_curricular_basico=0&tipo_basico=15&dirigido_basico=0&nivel_basico=0&saa_basico=0&KEY=***REMOVED***
+http://localhost/saac/api_materiales/index.php?callback=json&titulo_descripcion_basico=&autor_basico=&idiomas_basico=&area_curricular_basico=0&subarea_curricular_basico=0&tipo_basico=15&dirigido_basico=0&nivel_basico=0&saa_basico=0&KEY=6YOIFy4EH9rZBFH872Md
 
 */
 require ('../classes/querys/query.php');
@@ -153,11 +153,11 @@ $array_subcategorias=array();
 
 //************************************************************
 //************************************************************
-// CLAVE BORRADA - 'xYmKZrxuf1bcR9g2FS9x' , 	//Javier Marco
+// CLAVE BORRADA - '***REMOVED***' , 	//Javier Marco
 //**************************************************************
 $valid_keys = array(
-	'***REMOVED***' , 	//ARABOARD
-    '***REMOVED***'  	//ARASAAC 
+	'XXXXXXXXXXXXXXXXXXXX' , 	//ARABOARD
+    'XXXXXXXXXXXXXXXXXXXX'  	//ARASAAC 
 );
 
 //************************************************************
